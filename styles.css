@@ -1,8 +1,8 @@
 /* Basic, lightweight styling */
 :root{--bg:#f3efe9;--card:#fff;--accent:#6b3f2a}
 *{box-sizing:border-box}
-body{font-family:Segoe UI, Roboto, Arial, sans-serif;margin:0;background:var(--bg);color:#222; background-image: url('media/back2.png');}
-.site-header{background:linear-gradient(180deg,rgba(107,63,42,0.9),rgba(107,63,42,0.7)),url('media/homelander.png');background-size:cover;padding:36px 20px;color:#fff;text-align:center}
+body{font-family:Segoe UI, Roboto, Arial, sans-serif;margin:0;background:var(--bg);color:#222; background-image: url('back2.png');}
+.site-header{background:linear-gradient(180deg,rgba(107,63,42,0.9),rgba(107,63,42,0.7)),url('homelander.png');background-size:cover;padding:36px 20px;color:#fff;text-align:center}
 .site-header h1{margin:0 0 8px;font-size:clamp(1.4rem,3vw,2.4rem);border: #222;border-bottom: 2px solid;}
 .tag{opacity:.9;margin:0}
 .controls{display:flex;gap:8px;padding:18px;justify-content:center}
