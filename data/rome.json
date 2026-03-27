@@ -5,7 +5,7 @@
     "slug": "colloseum",
     "type": "place",
     "year": "80 AD",
-    "image": "media/coloseum1.png",
+    "image": "coloseum1.png",
     "short": "Ancient amphitheatre in Rome, used for games and public events.",
     "tags": "architecture, amphitheatre, rome"
   },
@@ -15,7 +15,7 @@
     "slug": "forum",
     "type": "place",
     "year": "100–44 BC",
-    "image": "media/icloud/IMG_3257.jpeg",
+    "image": "IMG_3257.jpeg",
     "short": "The central public space in ancient Rome, used for various activities.",
     "tags": "forum, politics, public space"
   },
@@ -25,7 +25,7 @@
     "slug": "trevi-fountain",
     "type": "place",
     "year": "1732–1762",
-    "image": "media/icloud/IMG_2905.jpeg",
+    "image": "IMG_2905.jpeg",
     "short": "Famous Baroque fountain in Rome, known for its stunning architecture.",
     "tags": "fountain, baroque, rome"
   },
@@ -35,7 +35,7 @@
     "slug": "vittorio-emanuele-monument",
     "type": "place",
     "year": "1885",
-    "image": "media/icloud/IMG_2914.jpeg",
+    "image": "IMG_2914.jpeg",
     "short": "Monument dedicated to the first king of unified Italy.",
     "tags": "monument,italy"
   }
