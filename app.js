@@ -1,7 +1,7 @@
 // Load the small "database" and render cards, with search & filter
 async function loadData(){
   try{
-    const res = await fetch('data/rome.json');
+    const res = await fetch('rome.json');
     const data = await res.json();
     window.ROME = data;
     renderCards(data);
